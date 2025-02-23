@@ -1,4 +1,4 @@
-# chatwise-searxng
+# chatwise-searxng-bridge
 
 ## To run
 

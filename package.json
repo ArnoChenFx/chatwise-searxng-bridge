@@ -1,5 +1,5 @@
 {
-  "name": "chatwise-searxng",
+  "name": "chatwise-searxng-bridge",
   "module": "server.ts",
   "type": "module",
   "private": true,
