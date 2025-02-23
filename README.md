@@ -18,7 +18,7 @@ services:
     ports:
       - 3000:3000
     environment:
-      - SEARXNG_URL='http://localhost:8080
+      - SEARXNG_URL='http://localhost:8080'
       - SEARXNG_CUSTOM_PARAMS='&format=json&safesearch=0'
       - SEARXNG_PREFERENCES=
 ```
